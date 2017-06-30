@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/fab_bkg"
+            android:text="1"
+            android:textSize="30sp"/>
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/fab_bkg"
+            android:text="2"
+            android:textSize="30sp"/>
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/fab_bkg"
+            android:text="3"
+            android:textSize="30sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/fab_bkg"
+            android:text="4"
+            android:textSize="30sp"/>
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/fab_bkg"
+            android:text="5"
+            android:textSize="30sp"/>
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/fab_bkg"
+            android:text="6"
+            android:textSize="30sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/fab_bkg"
+            android:text="7"
+            android:textSize="30sp"/>
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/fab_bkg"
+            android:text="8"
+            android:textSize="30sp"/>
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/fab_bkg"
+            android:text="9"
+            android:textSize="30sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/fab_bkg"
+            android:src="@drawable/del_all"
+            android:textSize="30sp"/>
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/fab_bkg"
+            android:text="0"
+            android:textSize="30sp"/>
+
+        <ImageButton
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/fab_bkg"
+            android:src="@drawable/del"
+            android:textSize="30sp"/>
+    </LinearLayout>
+</LinearLayout>
